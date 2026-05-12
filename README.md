@@ -1,27 +1,9 @@
 # **👩🏾‍💻** Beatriz Almeida
 
-### PMO | Project Analyst | Data Analyst | Power Automate | Power BI
+### Data Analyst | Project Analyst 
 ##
-Bem-vindo(a) ao meu perfil!
+Bem-vindo(a) ao meu perfil, eu sou a Bea!
 
-Sou graduada em Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), e estou direcionando meu foco de estudos para a área de Análise de Dados.
+Sou **Analista de Dados**, formada em **Análise e Desenvolvimento de Sistemas** e graduanda em **Ciência da Computação.**
 
-➡️Estou desenvolvendo habilidades em: SQL, Python, Power Automate e Power BI.
-
-Profissional com experiência em Gerenciamento de Projetos, atuando na interface entre áreas internas e externas. Tenho foco em melhoria contínua, padronização de processos e otimização do fluxo de trabalho. 
-Atualmente, gerencio projetos de engenharia básica e serviço de campo, coordenando cronogramas, integrando informações de múltiplas áreas e mantendo alinhamento direto com o cliente. Desenvolvo soluções voltadas à automação de processos, criação de dashboards interativos e geração de relatórios gerenciais para apoiar nas decisões estratégicas da organização.
-
-##
-
-### 🤖 Principais competências
-
-Análise de dados aplicada a decisão • Gestão de projetos • SAP • SQL • Power BI
-
-##
-
-
-
-
-  
-  
-          
+##  
