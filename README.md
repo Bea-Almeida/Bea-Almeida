@@ -1,6 +1,6 @@
 # **👩🏾‍💻** Beatriz Almeida
 
-### Data Analyst | Project Analyst 
+### Data Analyst | Experiência em PMO & Gestão de Projetos
 ##
 Bem-vindo(a) ao meu perfil, eu sou a Bea!
 
